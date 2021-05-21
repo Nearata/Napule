@@ -11,6 +11,7 @@
 
 ### Events
 
+- CombatLog. (Customizable | Toggable)
 - EnderPearl cooldown. (Customizable | Toggable)
 - No drops on death. (Toggable)
 - Fix party op damage. (Needs `Parties` | Toggable)
