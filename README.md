@@ -32,4 +32,4 @@ All the commands should have tab completion.
 
 ## License
 
-Licensed under the MIT license. See [LICENSE](LICENSE) for details.
+Licensed under the ISC license. See [LICENSE](LICENSE) for details.
