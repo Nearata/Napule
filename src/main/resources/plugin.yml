@@ -1,0 +1,13 @@
+name: Napule
+main: com.github.nearata.napule.Napule
+version: 1.0
+api-version: 1.13
+depend:
+  - Parties
+  - ProtocolLib
+authors:
+  - Nearata
+  - Cittadini di Neapovil
+commands:
+  napule:
+    permission: napule.command
